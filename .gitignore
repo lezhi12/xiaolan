@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+screenshots/
+logs/
+*.log
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+venv/
+example.py
+requirements.txt
+大模型使用方法
